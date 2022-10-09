@@ -1,0 +1,6 @@
+pendulum
+selenium
+bs4
+pandas
+psycopg
+dotenv
